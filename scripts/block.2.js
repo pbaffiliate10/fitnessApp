@@ -3,4 +3,4 @@
 write=nobody
 execute=authenticated 
   **/ 
- return "focus";   							
+ return "focus fooooocue";   							
